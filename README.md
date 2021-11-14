@@ -1,5 +1,4 @@
-# Relational-Database-Design
-
+# Best Buy Case Study Relational-Database-Design
 
 
 	USE master;
